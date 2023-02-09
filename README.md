@@ -40,6 +40,14 @@ Links to my Tableau dashboards can be found on my [Tableau profile](https://publ
 **Objective:** Understand trends in customer behaviors and trends based on location. <br />
 <br />
 
+## [Project 5: Differences in Student Exam Scores](https://github.com/vanessa-guzman/Differences_in_Student_Exam_Scores)
+
+**Tools:** RStudio, R, Tableau, Google Slides <br />
+**R Packages:** tidyverse <br />
+**Skills:** data analysis, data visualization (in Tableau) <br />
+**Objective:** Examine differences in student exam scores. <br />
+<br />
+
 
 
 
