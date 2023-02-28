@@ -6,7 +6,7 @@ Hi, I’m Vanessa and I majored in Psychology. While an undergrad I took a Stati
 
 I am currently transitioning into data analytics and this repository contains links to my R and SQL projects.
 
-Links to my Tableau dashboards can be found on my [Tableau profile](https://public.tableau.com/app/profile/vanessa4875).
+My Tableau dashboards can be found on my [Tableau profile](https://public.tableau.com/app/profile/vanessa4875).
 
 ## [Project 1: Cyclistic: Casual Riders and Annual Members](https://github.com/vanessa-guzman/Cyclistic_Casual_Riders_and_Annual_Members)
 
@@ -16,7 +16,7 @@ Links to my Tableau dashboards can be found on my [Tableau profile](https://publ
 **Objective:** Examine differences in Cyclistic usage between casual riders and annual members. <br />
 <br />
 
-## [Project 2: TV Shows](https://github.com/vanessa-guzman/tv_shows)
+## [Project 2: Streaming Platform Content](https://github.com/vanessa-guzman/Streaming_Platform_Content)
 
 **Tools:** SQL, Tableau <br />
 **SQL Functions and Statements:** Aggregation Functions, CASE WHEN statements, CTEs, CAST(), SUBSTR(), LOCATE() <br />
