@@ -2,11 +2,9 @@
 
 ## About Me
 
-Hi, I’m Vanessa and I majored in Psychology. While an undergrad I took a Statistical Methods in Psychological Research course which piqued my initial interest in exploring and analyzing data. After graduating, I chose to transition into data analytics by completing the Google Data Analytics Certificate. I currently use tools such as MySQL, R, Tableau, and Excel when conducting data analysis and creating visualizations. 
+Hi, I’m Vanessa and I majored in Psychology. While an undergrad I took a Statistical Methods in Psychological Research course which piqued my interest in exploring and analyzing data. After graduating, I chose to transition into data analytics by completing the Google Data Analytics Certificate. I currently use tools such as MySQL, R, Tableau, and Excel when conducting data analysis and creating visualizations. 
 
-I am currently transitioning into data analytics and this repository contains links to my R and SQL projects.
-
-My Tableau dashboards can be found on my [Tableau profile](https://public.tableau.com/app/profile/vanessa4875).
+This repository contains links to my R and SQL projects. My Tableau dashboards can be found on my [Tableau profile](https://public.tableau.com/app/profile/vanessa4875).
 
 ## [Project 1: Cyclistic: Casual Riders and Annual Members](https://github.com/vanessa-guzman/Cyclistic_Casual_Riders_and_Annual_Members)
 
