@@ -46,6 +46,13 @@ This repository contains links to my R and SQL projects. My Tableau dashboards c
 **Objective:** Examine differences in student exam scores. <br />
 <br />
 
+## [Project 6: Bakery Sales](https://github.com/vanessa-guzman/Bakery_Sales)
+
+**Tools:** Excel, Power Query <br />
+**Formulas and Features Used:** SUMIF(), PivotTables <br />
+**Skills:** data cleaning, data wrangling, data analysis, data visualization (in Excel) <br />
+**Objective:** Analyze monthly changes in sales at a bakery. <br />
+<br />
 
 
 
