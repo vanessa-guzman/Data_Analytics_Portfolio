@@ -17,7 +17,7 @@ This repository contains links to my R, SQL, and Excel projects. My Tableau dash
 ## [Project 2: Streaming Platform Content](https://github.com/vanessa-guzman/Streaming_Platform_Content)
 
 **Tools:** SQL, Tableau <br />
-**SQL Functions and Statements:** Aggregation Functions, CASE WHEN statements, CTEs, CAST(), SUBSTR(), LOCATE() <br />
+**SQL Functions and Statements:** Aggregation Functions, CAST(), SUBSTR(), LOCATE(), ROUND(), UNION ALL <br />
 **Skills:** data cleaning, data wrangling, data analysis, data visualization (in Tableau) <br />
 **Objective:** Analyze content on streaming platforms. <br />
 <br />
